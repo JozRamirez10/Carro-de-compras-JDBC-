@@ -1,4 +1,4 @@
-# Carro de compras (JDBC)
+# Carro de compras (Jakarta EE, JDBC)
 El proyecto actual incorpora JDBC para conectarse a una base de datos en MySQL y obtener datos de las tablas:
   * Producto
   * Categoria
