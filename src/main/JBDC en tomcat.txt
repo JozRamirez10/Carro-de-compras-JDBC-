@@ -1,0 +1,10 @@
+Para trabajar con jdbc en tomcat es necesario instalar la libreria
+ - mysql-connector-java
+
+Luego ir a la carpeta /Users/jozfama/.m2/repository/com/mysql/mysql-connector-java/... y copiar el .jar
+Pegamos el .jar en la carpeta "lib" de tomcat:
+    - apache-tomcat-.../lib/...
+
+Para trabajar con mysql en tomcat no es necesario tener mysql en el pom, solo en la carpeta lib
+
+Recuerda reiniciar el servidor de tomcat
